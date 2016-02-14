@@ -1,57 +1,11 @@
-__TIME_BEGIN=1455479812931
+__TIME_BEGIN=1455479933612
 [INFO] Scanning for projects...
-Downloading: http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
-Downloading: http://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
 [INFO]                                                                         
 [INFO] ------------------------------------------------------------------------
 [INFO] Building Apache Commons Math 4.0-SNAPSHOT
 [INFO] ------------------------------------------------------------------------
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.5/maven-remote-resources-plugin-1.5.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.4/maven-site-plugin-3.4.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/24/maven-parent-24.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/14/apache-14.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.4/maven-site-plugin-3.4.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.3.1/maven-enforcer-plugin-1.3.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer/1.3.1/enforcer-1.3.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/1.3.1/maven-enforcer-plugin-1.3.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.7/build-helper-maven-plugin-1.7.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/1.7/build-helper-maven-plugin-1.7.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-maven-plugin/1.14/animal-sniffer-maven-plugin-1.14.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-parent/1.14/animal-sniffer-parent-1.14.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/34/mojo-parent-34.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer-maven-plugin/1.14/animal-sniffer-maven-plugin-1.14.jar
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.7.5.201505241946/jacoco-maven-plugin-0.7.5.201505241946.pom
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.build/0.7.5.201505241946/org.jacoco.build-0.7.5.201505241946.pom
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/jacoco-maven-plugin/0.7.5.201505241946/jacoco-maven-plugin-0.7.5.201505241946.jar
-Downloading: https://repo.maven.apache.org/maven2/ru/concerteza/buildnumber/maven-jgit-buildnumber-plugin/1.2.10/maven-jgit-buildnumber-plugin-1.2.10.pom
-Downloading: https://repo.maven.apache.org/maven2/ru/concerteza/buildnumber/jgit-buildnumber-parent/1.2.10/jgit-buildnumber-parent-1.2.10.pom
-Downloading: https://repo.maven.apache.org/maven2/ru/concerteza/buildnumber/maven-jgit-buildnumber-plugin/1.2.10/maven-jgit-buildnumber-plugin-1.2.10.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/buildnumber-maven-plugin/1.3/buildnumber-maven-plugin-1.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/33/mojo-parent-33.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/buildnumber-maven-plugin/1.3/buildnumber-maven-plugin-1.3.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.7/maven-resources-plugin-2.7.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.7/maven-resources-plugin-2.7.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/27/maven-plugins-27.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/2.5.3/maven-bundle-plugin-2.5.3.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.18.1/maven-surefire-plugin-2.18.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.18.1/surefire-2.18.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.18.1/maven-surefire-plugin-2.18.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.6/maven-jar-plugin-2.6.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.6/maven-jar-plugin-2.6.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.jar
 [INFO] 
 [INFO] --- maven-enforcer-plugin:1.3.1:enforce (enforce-maven-3) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-api/1.3.1/enforcer-api-1.3.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-rules/1.3.1/enforcer-rules-1.3.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-api/1.3.1/enforcer-api-1.3.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/enforcer/enforcer-rules/1.3.1/enforcer-rules-1.3.1.jar
 [INFO] 
 [INFO] --- build-helper-maven-plugin:1.7:parse-version (parse-version) @ commons-math4 ---
 [INFO] 
@@ -63,109 +17,14 @@ main:
 [INFO] Executed tasks
 [INFO] 
 [INFO] --- maven-remote-resources-plugin:1.5:process (default) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1/doxia-1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-resolver/1.0/maven-artifact-resolver-1.0.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-resources/1.0-alpha-7/plexus-resources-1.0-alpha-7.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.17/plexus-components-1.1.17.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.5/plexus-2.0.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom
-Downloading: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.pom
-Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
-Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
-Downloading: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1/doxia-sink-api-1.1.jar
-4/9 KB     8/9 KB   9/9 KB   Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1/doxia-logging-api-1.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-artifact-resolver/1.0/maven-artifact-resolver-1.0.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-resources/1.0-alpha-7/plexus-resources-1.0-alpha-7.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.12/plexus-interpolation-1.12.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar
-Downloading: https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.4/commons-lang-2.4.jar
 [INFO] 
 [INFO] --- maven-jgit-buildnumber-plugin:1.2.10:extract-buildnumber (default) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/ru/concerteza/buildnumber/jgit-buildnumber-ant-task/1.2.10/jgit-buildnumber-ant-task-1.2.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit/2.0.0.201206130900-r/org.eclipse.jgit-2.0.0.201206130900-r.pom
-Downloading: https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit-parent/2.0.0.201206130900-r/org.eclipse.jgit-parent-2.0.0.201206130900-r.pom
-Downloading: https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.44-1/jsch-0.1.44-1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0.3/maven-plugin-api-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0.3/maven-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0.3/maven-model-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.0.3/maven-artifact-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-plexus/2.1.1/sisu-inject-plexus-2.1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-plexus/2.1.1/guice-plexus-2.1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-bean/2.1.1/guice-bean-2.1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject/2.1.1/sisu-inject-2.1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-parent/2.1.1/sisu-parent-2.1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/7/forge-parent-7.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/2.9.4/guice-parent-2.9.4.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0.3/maven-core-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.0.3/maven-settings-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.0.3/maven-settings-builder-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.0.3/maven-repository-metadata-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.0.3/maven-model-builder-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.0.3/maven-aether-provider-3.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-api/1.11/aether-api-1.11.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-parent/1.11/aether-parent-1.11.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-spi/1.11/aether-spi-1.11.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.11/aether-util-1.11.pom
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-impl/1.11/aether-impl-1.11.pom
-Downloading: https://repo.maven.apache.org/maven2/ru/concerteza/buildnumber/jgit-buildnumber-ant-task/1.2.10/jgit-buildnumber-ant-task-1.2.10.jar
-Downloading: https://repo.maven.apache.org/maven2/com/jcraft/jsch/0.1.44-1/jsch-0.1.44-1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-inject-bean/2.1.1/sisu-inject-bean-2.1.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/eclipse/jgit/org.eclipse.jgit/2.0.0.201206130900-r/org.eclipse.jgit-2.0.0.201206130900-r.jar
-4/209 KB   8/209 KB   12/209 KB   16/209 KB   16/209 KB   4/9 KB   16/209 KB   8/9 KB   16/209 KB   9/9 KB   20/209 KB   9/9 KB   24/209 KB   9/9 KB   28/209 KB   9/9 KB   32/209 KB   9/9 KB   36/209 KB   9/9 KB   40/209 KB   9/9 KB   44/209 KB   9/9 KB   48/209 KB   9/9 KB   52/209 KB   9/9 KB   56/209 KB   9/9 KB   60/209 KB   9/9 KB   61/209 KB   9/9 KB   65/209 KB   9/9 KB   69/209 KB   9/9 KB   73/209 KB   9/9 KB   77/209 KB   9/9 KB   81/209 KB   9/9 KB   85/209 KB   9/9 KB   89/209 KB   9/9 KB   93/209 KB   9/9 KB   97/209 KB   9/9 KB   101/209 KB   9/9 KB   105/209 KB   9/9 KB   109/209 KB   9/9 KB   113/209 KB   9/9 KB   117/209 KB   9/9 KB   121/209 KB   9/9 KB   125/209 KB   9/9 KB   129/209 KB   9/9 KB   133/209 KB   9/9 KB   137/209 KB   9/9 KB   141/209 KB   9/9 KB   145/209 KB   9/9 KB   149/209 KB   9/9 KB   153/209 KB   9/9 KB   157/209 KB   9/9 KB   161/209 KB   9/9 KB   165/209 KB   9/9 KB   169/209 KB   9/9 KB   173/209 KB   9/9 KB   177/209 KB   9/9 KB   181/209 KB   9/9 KB   185/209 KB   9/9 KB   189/209 KB   9/9 KB   Downloading: https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/2.9.4/sisu-guice-2.9.4-no_aop.jar
-Downloading: https://repo.maven.apache.org/maven2/org/sonatype/aether/aether-util/1.11/aether-util-1.11.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.6/plexus-utils-2.0.6.jar
 [INFO] Git info extracted, revision: 'dd426ac', branch: '', tag: '', commitsCount: '5990', commitDate: '2016-02-06', buildnumber: 'UNNAMED.5990.dd426ac'
 [INFO] 
 [INFO] --- buildnumber-maven-plugin:1.3:create (default) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.9/maven-scm-api-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm/1.9/maven-scm-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.9/maven-scm-manager-plexus-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-managers/1.9/maven-scm-managers-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-bazaar/1.9/maven-scm-provider-bazaar-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers/1.9/maven-scm-providers-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svnexe/1.9/maven-scm-provider-svnexe-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-svn/1.9/maven-scm-providers-svn-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svn-commons/1.9/maven-scm-provider-svn-commons-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.9/maven-scm-provider-gitexe-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-git/1.9/maven-scm-providers-git-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.9/maven-scm-provider-git-commons-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvsexe/1.9/maven-scm-provider-cvsexe-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-cvs/1.9/maven-scm-providers-cvs-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.9/maven-scm-provider-cvs-commons-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-starteam/1.9/maven-scm-provider-starteam-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-clearcase/1.9/maven-scm-provider-clearcase-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-perforce/1.9/maven-scm-provider-perforce-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-hg/1.9/maven-scm-provider-hg-1.9.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.9/maven-scm-api-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-bazaar/1.9/maven-scm-provider-bazaar-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svnexe/1.9/maven-scm-provider-svnexe-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.9/maven-scm-manager-plexus-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.9/maven-scm-provider-gitexe-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.9/maven-scm-provider-git-commons-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svn-commons/1.9/maven-scm-provider-svn-commons-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvsexe/1.9/maven-scm-provider-cvsexe-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.9/maven-scm-provider-cvs-commons-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-starteam/1.9/maven-scm-provider-starteam-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-clearcase/1.9/maven-scm-provider-clearcase-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-perforce/1.9/maven-scm-provider-perforce-1.9.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-hg/1.9/maven-scm-provider-hg-1.9.jar
 [INFO] Executing: /bin/sh -c cd /home/travis/build/longestname1/repo/commonsmath && git rev-parse --verify HEAD
 [INFO] Working directory: /home/travis/build/longestname1/repo/commonsmath
-[INFO] Storing buildNumber: null at timestamp: 2016-02-14 19:57:05+0000
+[INFO] Storing buildNumber: null at timestamp: 2016-02-14 19:58:59+0000
 [WARNING] Cannot get the branch information from the git repository: 
 Detecting the current branch failed: fatal: ref HEAD is not a symbolic ref
 
@@ -174,74 +33,20 @@ Detecting the current branch failed: fatal: ref HEAD is not a symbolic ref
 [INFO] Storing buildScmBranch: UNKNOWN
 [INFO] 
 [INFO] --- maven-resources-plugin:2.7:resources (default-resources) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.2/maven-filtering-1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.3/maven-shared-utils-0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/1.2/maven-filtering-1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.3/maven-shared-utils-0.3.jar
 [INFO] Using 'UTF-8' encoding to copy filtered resources.
 [INFO] Copying 2 resources
 [INFO] Copying 2 resources to META-INF
 [INFO] 
 [INFO] --- maven-compiler-plugin:3.3:compile (default-compile) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/20/maven-shared-components-20.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.5/plexus-compiler-2.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.5/plexus-compilers-2.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.7/maven-shared-utils-0.7.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.5/plexus-compiler-api-2.5.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.5/plexus-compiler-manager-2.5.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.5/plexus-compiler-javac-2.5.jar
 [INFO] Changes detected - recompiling the module!
 [INFO] Compiling 864 source files to /home/travis/build/longestname1/repo/commonsmath/target/classes
 [INFO] /home/travis/build/longestname1/repo/commonsmath/src/main/java/org/apache/commons/math4/optim/BaseOptimizer.java: Some input files use or override a deprecated API.
 [INFO] /home/travis/build/longestname1/repo/commonsmath/src/main/java/org/apache/commons/math4/optim/BaseOptimizer.java: Recompile with -Xlint:deprecation for details.
 [INFO] 
 [INFO] --- maven-bundle-plugin:2.5.3:manifest (bundle-manifest) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/biz/aQute/bnd/bndlib/2.3.0/bndlib-2.3.0.pom
-Downloading: https://repo.maven.apache.org/maven2/biz/aQute/bnd/parent/2.3.0/parent-2.3.0.pom
-Downloading: https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.pom
-Downloading: https://repo.maven.apache.org/maven2/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.pom
-Downloading: https://repo.maven.apache.org/maven2/biz/aQute/bnd/bndlib/2.3.0/bndlib-2.3.0.jar
-Downloading: https://repo.maven.apache.org/maven2/org/osgi/org.osgi.core/4.3.1/org.osgi.core-4.3.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.utils/1.6.0/org.apache.felix.utils-1.6.0.jar
-Downloading: https://repo.maven.apache.org/maven2/org/osgi/org.osgi.compendium/4.2.0/org.osgi.compendium-4.2.0.jar
-Downloading: https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2/commons-collections-3.2.jar
 [INFO] 
 [INFO] --- animal-sniffer-maven-plugin:1.14:check (checkAPIcompatibility) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer/1.14/animal-sniffer-1.14.pom
-Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/java-boot-classpath-detector/1.14/java-boot-classpath-detector-1.14.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.1/maven-core-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.1/maven-settings-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.1/maven-model-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.5/plexus-utils-1.0.5.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.0.1/maven-plugin-parameter-documenter-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.1/maven-reporting-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-6/doxia-sink-api-1.0-alpha-6.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0-alpha-6/doxia-1.0-alpha-6.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.1/maven-profile-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.1/maven-artifact-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.1/maven-repository-metadata-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.0.1/maven-error-diagnostics-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.1/maven-project-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.1/maven-artifact-manager-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.1/maven-plugin-registry-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.1/maven-plugin-descriptor-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.1/maven-monitor-2.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/animal-sniffer/1.14/animal-sniffer-1.14.jar
-Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/java-boot-classpath-detector/1.14/java-boot-classpath-detector-1.14.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-6/doxia-sink-api-1.0-alpha-6.jar
 [INFO] Checking unresolved references to org.codehaus.mojo.signature:java17:1.0
-Downloading: http://repo.maven.apache.org/maven2/org/codehaus/mojo/signature/java17/1.0/java17-1.0.signature
 [INFO] 
 [INFO] --- maven-resources-plugin:2.7:testResources (default-testResources) @ commons-math4 ---
 [INFO] Using 'UTF-8' encoding to copy filtered resources.
@@ -255,71 +60,15 @@ Downloading: http://repo.maven.apache.org/maven2/org/codehaus/mojo/signature/jav
 [INFO] /home/travis/build/longestname1/repo/commonsmath/src/test/java/org/apache/commons/math4/util/IncrementorTest.java: Recompile with -Xlint:deprecation for details.
 [INFO] 
 [INFO] --- jacoco-maven-plugin:0.7.5.201505241946:prepare-agent (prepare-agent) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.10/maven-project-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.10/maven-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.10/maven-settings-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.10/maven-model-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.10/maven-profile-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.10/maven-artifact-manager-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.10/maven-repository-metadata-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.10/maven-artifact-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.10/maven-plugin-registry-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.10/maven-plugin-api-2.0.10.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1.2/doxia-sink-api-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1.2/doxia-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1.2/doxia-logging-api-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.12/plexus-utils-1.5.12.pom
-Downloading: https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
-Downloading: https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/1/apache-1.pom
-Downloading: https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
-Downloading: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.1.2/doxia-sitetools-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.1.2/doxia-modules-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.pom
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.agent/0.7.5.201505241946/org.jacoco.agent-0.7.5.201505241946.pom
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.pom
-Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.1/asm-parent-5.0.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.pom
-Downloading: https://repo.maven.apache.org/maven2/junit/junit/4.8.2/junit-4.8.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.jar
-Downloading: https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
-Downloading: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.jar
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.agent/0.7.5.201505241946/org.jacoco.agent-0.7.5.201505241946-runtime.jar
-820/1185 KB   15/15 KB              Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar
-Downloading: https://repo.maven.apache.org/maven2/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar
 [INFO] argLine set to -javaagent:/home/travis/.m2/repository/org/jacoco/org.jacoco.agent/0.7.5.201505241946/org.jacoco.agent-0.7.5.201505241946-runtime.jar=destfile=/home/travis/build/longestname1/repo/commonsmath/target/jacoco.exec
 [INFO] 
 [INFO] --- maven-surefire-plugin:2.18.1:test (default-test) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.18.1/maven-surefire-common-2.18.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools-3.3.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.18.1/surefire-api-2.18.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.18.1/surefire-booter-2.18.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.18.1/maven-surefire-common-2.18.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.18.1/surefire-booter-2.18.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.18.1/surefire-api-2.18.1.jar
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin-annotations-3.3.jar
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 41.874 s
-[INFO] Finished at: 2016-02-14T19:57:36+00:00
-[INFO] Final Memory: 30M/415M
+[INFO] Total time: 27.348 s
+[INFO] Finished at: 2016-02-14T19:59:22+00:00
+[INFO] Final Memory: 28M/410M
 [INFO] ------------------------------------------------------------------------
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project commons-math4: No tests were executed!  (Set -DfailIfNoTests=false to ignore this error.) -> [Help 1]
 [ERROR] 
@@ -333,21 +82,15 @@ Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/
 [INFO] ------------------------------------------------------------------------
 [INFO] Building Apache Commons Math 4.0-SNAPSHOT
 [INFO] ------------------------------------------------------------------------
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.6.1/maven-clean-plugin-2.6.1.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/26/maven-plugins-26.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/25/maven-parent-25.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/15/apache-15.pom
-Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.6.1/maven-clean-plugin-2.6.1.jar
 [INFO] 
 [INFO] --- maven-clean-plugin:2.6.1:clean (default-clean) @ commons-math4 ---
-Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.1/plexus-utils-1.1.jar
 [INFO] Deleting /home/travis/build/longestname1/repo/commonsmath/target
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 2.666 s
-[INFO] Finished at: 2016-02-14T19:57:42+00:00
-[INFO] Final Memory: 11M/491M
+[INFO] Total time: 1.037 s
+[INFO] Finished at: 2016-02-14T19:59:25+00:00
+[INFO] Final Memory: 16M/491M
 [INFO] ------------------------------------------------------------------------
 [INFO] Scanning for projects...
 [INFO]                                                                         
@@ -375,7 +118,7 @@ main:
 [INFO] maven is executed in offline mode, Updating project files from SCM: skipped.
 [INFO] Executing: /bin/sh -c cd /home/travis/build/longestname1/repo/commonsmath && git rev-parse --verify HEAD
 [INFO] Working directory: /home/travis/build/longestname1/repo/commonsmath
-[INFO] Storing buildNumber: null at timestamp: 2016-02-14 19:57:49+0000
+[INFO] Storing buildNumber: null at timestamp: 2016-02-14 19:59:32+0000
 [WARNING] Cannot get the branch information from the git repository: 
 Detecting the current branch failed: fatal: ref HEAD is not a symbolic ref
 
@@ -417,9 +160,9 @@ Detecting the current branch failed: fatal: ref HEAD is not a symbolic ref
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 32.260 s
-[INFO] Finished at: 2016-02-14T19:58:17+00:00
-[INFO] Final Memory: 28M/410M
+[INFO] Total time: 25.729 s
+[INFO] Finished at: 2016-02-14T19:59:54+00:00
+[INFO] Final Memory: 28M/409M
 [INFO] ------------------------------------------------------------------------
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.18.1:test (default-test) on project commons-math4: No tests were executed!  (Set -DfailIfNoTests=false to ignore this error.) -> [Help 1]
 [ERROR] 
@@ -429,4 +172,4 @@ Detecting the current branch failed: fatal: ref HEAD is not a symbolic ref
 [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
 __RESULT=1
-__TIME_END=1455479898049
+__TIME_END=1455479994968
